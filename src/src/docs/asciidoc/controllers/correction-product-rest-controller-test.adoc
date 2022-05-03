@@ -1,0 +1,29 @@
+=== POST
+==== HTTP Request
+include::../../../../target/snippets/correction-product-rest-controller-test/test-create/http-request.adoc[]
+==== HTTP Response
+include::../../../../target/snippets/correction-product-rest-controller-test/test-create/http-response.adoc[]
+
+=== DELETE
+==== HTTP Request
+include::../../../../target/snippets/correction-product-rest-controller-test/test-delete/http-request.adoc[]
+==== HTTP Response
+include::../../../../target/snippets/correction-product-rest-controller-test/test-delete/http-response.adoc[]
+
+=== GET ALL
+==== HTTP Request
+include::../../../../target/snippets/correction-product-rest-controller-test/test-get-all/http-request.adoc[]
+==== HTTP Response
+include::../../../../target/snippets/correction-product-rest-controller-test/test-get-all/http-response.adoc[]
+
+=== GET BY ID
+==== HTTP Request
+include::../../../../target/snippets/correction-product-rest-controller-test/test-get-by-id/http-request.adoc[]
+==== HTTP Response
+include::../../../../target/snippets/correction-product-rest-controller-test/test-get-by-id/http-response.adoc[]
+
+=== PUT
+==== HTTP Request
+include::../../../../target/snippets/correction-product-rest-controller-test/test-update/http-request.adoc[]
+==== HTTP Response
+include::../../../../target/snippets/correction-product-rest-controller-test/test-update/http-response.adoc[]

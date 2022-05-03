@@ -1,0 +1,16 @@
+INSERT INTO internal_order_internal_order_products (internal_order_id, internal_order_products_id)
+VALUES (17, 1),
+       (17, 2),
+       (17, 3),
+       (18, 4),
+       (18, 5),
+       (18, 6),
+       (19, 7),
+       (19, 8),
+       (19, 9),
+       (20, 10),
+       (20, 11),
+       (20, 12),
+       (21, 13),
+       (21, 14),
+       (21, 15);

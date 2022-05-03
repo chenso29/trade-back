@@ -1,0 +1,216 @@
+:toc: left
+:toclevels: 1
+
+= Documentation Rest Controllers
+
+== Acceptance Production Rest Controller
+include::controllers/acceptance-production-rest-controller.adoc[]
+
+
+== Acceptance Rest Controller
+include::controllers/acceptance-rest-controller-test.adoc[]
+
+
+
+== Address Rest Controller
+include::controllers/address-rest-controller.adoc[]
+
+
+
+== Agent Reports Rest Controller
+include::controllers/agent-reports-rest-controller-test.adoc[]
+
+
+== Attribute Of Calculation Object Rest Controller
+include::controllers/attribute-of-calculation-object-rest-controller-test.adoc[]
+
+
+
+== Balance Adjustment Rest Controller
+include::controllers/balance-adjustment-rest-controller-test.adoc[]
+
+
+
+== Bank Account Rest Controller
+include::controllers/bank-account-rest-controller-test.adoc[]
+
+
+
+== Company Rest Controller
+include::controllers/company-rest-controller-test.adoc[]
+
+== Contact Rest Controller
+include::controllers/contact-rest-controller-test.adoc[]
+
+== Contract Rest Controller
+include::controllers/contract-rest-controller-test.adoc[]
+
+
+== Contractor Group Rest Controller
+include::controllers/contractor-group-rest-controller-test.adoc[]
+
+== Correction Product Rest Controller
+include::controllers/correction-product-rest-controller-test.adoc[]
+
+== Correction Rest Controller
+include::controllers/correction-rest-controller-test.adoc[]
+
+== Currency Rest Controller
+include::controllers/currency-rest-controller-test.adoc[]
+
+== Department Rest Controller
+include::controllers/department-rest-controller-test.adoc[]
+
+== Employee Rest Controller
+include::controllers/employee-rest-controller-test.adoc[]
+
+== Image Rest Controller
+include::controllers/image-rest-controller-test.adoc[]
+
+== Internal Order Product Rest Controller
+include::controllers/internal-order-product-rest-controller-test.adoc[]
+
+== Internal Order Rest Controller
+include::controllers/internal-order-rest-controller-test.adoc[]
+
+== Inventarization Product Rest Controller
+include::controllers/inventarization-product-rest-controller-test.adoc[]
+
+== Inventarization Rest Controller
+include::controllers/inventarization-rest-controller-test.adoc[]
+
+== Invoice Product Rest Controller
+include::controllers/invoice-product-rest-controller-test.adoc[]
+
+== Invoice Rest Controller
+include::controllers/invoice-rest-controller-test.adoc[]
+
+== Legal Detail Rest Controller
+include::controllers/legal-detail-rest-controller-test.adoc[]
+
+== Movement Product Rest Controller
+include::controllers/movement-product-rest-controller-test.adoc[]
+
+
+== Movement Rest Controller
+include::controllers/movement-rest-controller-test.adoc[]
+
+
+== Mutual Set Elements Rest Controller
+include::controllers/mutual-settlements-rest-controller-test.adoc[]
+
+
+== Payment Rest Controller
+include::controllers/payment-rest-controller-test.adoc[]
+
+
+== Payout Rest Controller
+include::controllers/payout-rest-controller-test.adoc[]
+
+
+== Position Rest Controller
+include::controllers/position-rest-controller-test.adoc[]
+
+
+== Price List Rest Controller
+include::controllers/price-list-rest-controller-test.adoc[]
+
+== Product Group Rest Controller
+include::controllers/product-group-rest-controller-test.adoc[]
+
+== Production Rest Controller
+include::controllers/production-rest-controller-test.adoc[]
+
+== Product Price Rest Controller
+include::controllers/product-price-rest-controller-test.adoc[]
+
+== Product Rest Controller
+include::controllers/product-rest-controller-test.adoc[]
+
+== Project Rest Controller
+include::controllers/project-rest-controller-test.adoc[]
+
+
+== Purchase Control Rest Controller
+include::controllers/purchase-control-rest-controller-test.adoc[]
+
+
+== Remain Rest Controller
+include::controllers/remain-rest-controller-test.adoc[]
+
+
+== Request Production Rest Controller
+include::controllers/requests-production-rest-controller-test.adoc[]
+
+
+== Retail Sales Rest Controller
+include::controllers/retail-sales-rest-controller-test.adoc[]
+
+
+== Retail Store Rest Controller
+include::controllers/retail-store-rest-controller-test.adoc[]
+
+
+== Return to Supplier Rest Controller
+include::controllers/return-to-supplier-rest-controller-test.adoc[]
+
+
+== Role Rest Controller
+include::controllers/role-rest-controller-test.adoc[]
+
+
+== Supplier Account Rest Controller
+include::controllers/supplier-account-rest-controller-test.adoc[]
+
+
+== Task Comment Rest Controller
+include::controllers/task-comment-rest-controller-test.adoc[]
+
+
+== Task Rest Controller
+include::controllers/task-rest-controller-test.adoc[]
+
+
+== Tax System Rest Controller
+include::controllers/tax-system-rest-controller-test.adoc[]
+
+
+== Technical Card Group Rest Controller
+include::controllers/technical-card-group-rest-controller-test.adoc[]
+
+
+== Technical Card Rest Controller
+include::controllers/technical-card-rest-controller-test.adoc[]
+
+
+== Type of Contractor Rest Controller
+include::controllers/type-of-contractor-rest-controller-test.adoc[]
+
+
+== Type of Price Rest Controller
+include::controllers/type-of-price-rest-controller-test.adoc[]
+
+
+== Unit Rest Controller
+include::controllers/unit-rest-controller-test.adoc[]
+
+
+== Warehouse Rest Controller
+include::controllers/warehouse-rest-controller-test.adoc[]
+
+== Issued invoice Rest Controller
+include::controllers/issued-invoice-rest-controller-test.adoc[]
+
+
+
+
+
+
+
+
+
+
+
+
+= Rest convention
+include::rest_conv.adoc[]

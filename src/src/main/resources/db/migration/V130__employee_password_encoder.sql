@@ -1,0 +1,79 @@
+UPDATE employees SET password = '$2a$10$ed14sdsVfEoAlXhsVqSPTOXZM18acZ0q8pDUBWCmMbN9vDoMwYJOq' WHERE id = 1;
+UPDATE employees SET password = '$2a$10$jDzan.hTCOAN8MRrrw7or.dhxcHM/9Vy.njfVIfBBDjeslkSZFdmS' WHERE id = 2;
+UPDATE employees SET password = '$2a$10$FpuX/SvcKziR8Fe0LXRA4.nXsOZ2Tp77nyMWUX7EVdqo./jwY8YL6' WHERE id = 3;
+UPDATE employees SET password = '$2a$10$l8gBL.MM2S41qfSQrKTJouHEcETwrEfuFNB178INriV/ibpxVmOm.' WHERE id = 4;
+UPDATE employees SET password = '$2a$10$i59S0uwuV/e9Z.SJHUSoP.axPcGpUvAjBvwSJl.Rq0JjGouD7Xkmm' WHERE id = 5;
+UPDATE employees SET password = '$2a$10$Uc31FLs/.hUmIePUgxqf2uJIORyidBK7ZuMAeyGSyj4gR/.Emh4Fa' WHERE id = 6;
+
+-- Vasya 12345
+-- $2a$10$ed14sdsVfEoAlXhsVqSPTOXZM18acZ0q8pDUBWCmMbN9vDoMwYJOq
+-- $2a$10$9Z0j/SceedVseZmKaFE56emcmhn6J.h3BZOOmm7VOK7R4dM5lyrcK
+-- $2a$10$HOz6hPZsihDRXfZVHwNvCu6Od4YR1WC3fmroDb85oEoWxcoB9hh6.
+-- $2a$10$cUieddxmYWJQCQtGuu3dc.AYH5C7qzNItmgSmYjuMvoAK6YxnBnYe
+-- $2a$10$o2uQEolzjJObSlb2LZYuO.nH5Nk.DsiaTFVt3kOrWwOKjcIU1ZaoW
+-- $2a$10$H5Ap15MScpINlBGMwWf2/.MYMtHdmdzTBuoIE5/egiRFe0bLLcigC
+-- $2a$10$7XtvPkmi.zjL4nHV5W9rWOxue41u.5XK2qIp2glL6Lmq.AjCKN7oe
+-- $2a$10$/G6wT3GQ241u.mm0OLfCYe.ipSeOy.4Anq5BfXVPNJ0eJFfPTJoMu
+-- $2a$10$rUtg7C/s55LEIqX7os27W.rqWw7pvK59LSLvjmRq4kZsbW.BlVMqe
+-- $2a$10$uelHkb93AAj5MErzSI4vqe.7aTXHsNDSYachUGZ1HqvnpHxoS3G5W
+--
+-- Sima 54321
+-- $2a$10$jDzan.hTCOAN8MRrrw7or.dhxcHM/9Vy.njfVIfBBDjeslkSZFdmS
+-- $2a$10$//O8YWURM4dtnIlW7abnHeRG6gnq6eLj4On1g6DMB81KQRh.xlanW
+-- $2a$10$onsaNERysUWmI4hxZbZbOeeJ6R0mIWtgNjNGDlOStuwLgGtcdDTUK
+-- $2a$10$C/9yHIB6vRLH5tnsQpbL9eyukwngrMHosyucdYU1rBtjEomx4aJo6
+-- $2a$10$XXc8mRHSSDWctEvR0XkZw.XFWB4e0lDd.Ob1iqPdWcDhzWH/aZSue
+-- $2a$10$nlJKhIjCFsGF8PQtbKljSuLPm8WG3ffmncLx0xb1sS3IYeKsIlZIK
+-- $2a$10$1gYhlikpmf8ZF9uizqBSBuURcvSnYpEoJC14oOc72KRfbkBRGbS7y
+-- $2a$10$zKIk3RKPRkPmG.nPGOisVupoCqZXf1hHPej6pzPSjp8XNADAeLJkm
+-- $2a$10$eS6r9N0KbZbRBkEMeH34K.4ztSza96nnXK55T5sDCGtLte9KwWKAm
+-- $2a$10$2MC3AAUzOO1SG812FqJk9u8GC5AFOP2JpJqaVAn4PDkyGmZQDljoy
+--
+--
+-- Vera 76543
+-- $2a$10$FpuX/SvcKziR8Fe0LXRA4.nXsOZ2Tp77nyMWUX7EVdqo./jwY8YL6
+-- $2a$10$FJJk7qUpgWJwxsijbuOz4esX5qH2xYXszp3ndmHIzqYxCoMdq1sHq
+-- $2a$10$94E9OBsUzHCwKbzvezlleeju0J9m7HdqXLEA7aMX041yiNRoYCMkW
+-- $2a$10$JCqo23Cx0aLVz2vMxN2m/ODTAiUdQfol3yn.c1jhSt/MloZaz075K
+-- $2a$10$krFp7PKCDIkKmZwRYalieea5KzK2Nq1WxVaD4BfuXgaWCLbSmi7rW
+-- $2a$10$Lm3IITwb1uqiY/RCelW0reKE2LO.CQtsMXiwTba6.aFuLa4rBT.d2
+-- $2a$10$sdUS5wFSqEfwpqo7AxekauwMCWzqY/ml/2eozCbdO4qec067ONH8u
+-- $2a$10$XCz/aG./VC2CWj1AUtbO3ufaFko5QvtmfreZXC1boB4hiE16oPxum
+-- $2a$10$OHZJ5ZCbtt9M8wJ2.KTVc.miNqdzQqSA3cXuC.whVhgPN9HbvH3cy
+-- $2a$10$MoXXT9v0PvMx/Pnjjr56duQIHxgHvv8kkU3eccW/y8CSbgdJTPOa.
+--
+-- Karim qwerty
+-- $2a$10$l8gBL.MM2S41qfSQrKTJouHEcETwrEfuFNB178INriV/ibpxVmOm.
+-- $2a$10$jF2V78YYhoLmN76phCrJV.8dCK6ENxtkGR2dZhoo/0TBLjH0N/GZe
+-- $2a$10$1JfZiXqw42Tu27/RBQNs..GXUHCoc.sCWnb977awOdhk3Y4AdmtJe
+-- $2a$10$7e5yx9144TEFkyRq4/RTbeDkrAKpAvrHvBIG0XS/TPZ6pCi0i0sNa
+-- $2a$10$f7YaGAgKm/Q7.pM/t2O7FeMuNsrqre4JgXarXLtY12eqdH1FmXhKW
+-- $2a$10$oe.ycbWZRBEHgyYa3/UtMeU6C/zwtYs9OptwElBLU2YuRwKz3G1gy
+-- $2a$10$wF7624v2UpbWQ5CSQqzosONw.itZ4i86RgMz0n1SNWpx.Z33KTgC6
+-- $2a$10$BeZEehau2hqqBURwytbFLuuwmN58qOiX3NG.ZnKLntk23PbWNICB6
+-- $2a$10$tn1p4NpyJF.ESX2RxAy5l.5d/52DI7806IaPuGbkJk5hRB3UvAU7O
+-- $2a$10$dTnv3Sv2hVynW0uCSvyYguIkruk65srfbcH3YNSqH.II0EzaTh/X2
+--
+-- Sasha asdfg
+-- $2a$10$i59S0uwuV/e9Z.SJHUSoP.axPcGpUvAjBvwSJl.Rq0JjGouD7Xkmm
+-- $2a$10$T8PefrnY4Io1ZdG7aUDyM.7VbcJCf3rMA6Qoj9ZlEAGSzxVSuRRmq
+-- $2a$10$9Xfa.8UZQNAIEb60ApufA.RE5fS4FdF0EZc2Z93Kxk9mbc4OFdzGO
+-- $2a$10$a3xwVhGELkUDc2G7w.1ZkO.F6fPeOvLQ6DXAh6MFywXXPIRM1o6Cm
+-- $2a$10$AOehexLIPxE.hukzY9.TKeF0kEtzYfQ4cYC88SfccNf6yaxdDkUFq
+-- $2a$10$A/fZFh8Rf9.YpxOnMo58ROxdMKGZFNCtjyr5oARDVZCk0BLURd5lu
+-- $2a$10$yw.mM7YOa3qDpA6etJkfAeOe4D5rmGF.gYVnuwrY534BiBpauc3d6
+-- $2a$10$O1Q4JEkIvWd00niodpuu3.hiW3rXV2awWnShb0FgvepHdeB/eID.W
+-- $2a$10$9Gj0cpNos2CWLygVMUrhaegbCZjpD.cGGaUd8idWyyoulJ.jIQIse
+-- $2a$10$/MF6ZQFr.zVxarzSTfooKuHicPsUndVpn7UJsImpipAf/RPSh9P2y
+--
+-- Oleg terry
+-- $2a$10$Uc31FLs/.hUmIePUgxqf2uJIORyidBK7ZuMAeyGSyj4gR/.Emh4Fa
+-- $2a$10$Oz5cIgbMitWVk.7tHCM8I.kRZGppHwb7oMorsBqJWaqj.MCaqUjuC
+-- $2a$10$NaTOJOPv6rnqpnzyuJsVgOTbGmOjNZJKtEFnwT2yBBk4zI/dDJ6Mu
+-- $2a$10$VEN1NtN.MPMS0mvO1pVzkexfsOEKoQzpVWfVq4CeigR/OluyOKl56
+-- $2a$10$NEzpt7.WALGB1D4gerO7Y.rO9z5Ez9MjWwM0y1HuJP4Ip7h.qIapi
+-- $2a$10$A276fsEMjUvKzr/3zJT0ZuPIK0xb8hbZkN4iaqe0yO2OeUknM5vLa
+-- $2a$10$x5ffkhhCGAUqBRRZ.Ge2w./v4FsiK/qOniwwwY5fGW7lfpTbTPOYS
+-- $2a$10$vhk7nukMi5K9ms9UfeP9KOP8sP/GULUHJiGSZ540xEbwPfWia6.r6
+-- $2a$10$sO.39DCOy7QDmBHTfpUggeyyCo1jQviaN5jq3VhwhNOQmIlhM4p6W
+-- $2a$10$3pcsGpuIz/JvVks3Gv9vku2A2p9W3TIfmj81RKb1CIAE5LLZJjXnW

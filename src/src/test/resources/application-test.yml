@@ -1,0 +1,35 @@
+server:
+  port: 4444
+
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/trade_accounting_test
+    username: postgres
+    password: root
+    initialization-mode: always
+    hikari:
+      maximum-pool-size: 2
+
+  mail:
+    protocol: smtps
+    host: smtp.mail.ru
+    port: 465
+    username: trade_jm@mail.ru
+    password: MaxPowerJM2020
+
+  jpa:
+    open-in-view: false
+    show-sql: true
+    hibernate:
+      ddl-auto: validate
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQL95Dialect
+        current_session_context_class: org.springframework.orm.hibernate5.SpringSessionContext
+        format_sql: false
+        jdbc:
+          timezone: UTC
+
+  flyway:
+    enabled: true
